@@ -11,19 +11,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Domain", "2-Domain", "{0D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Repository", "3-Repository", "{8E214667-4FDA-4AE1-BA21-92CE1ABEEC66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperDigital.Api", "SuperDigital.Api\SuperDigital.Api.csproj", "{7E984492-4A86-41F7-BFB6-1D6D4B0D47EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperDigital.Api", "SuperDigital.Api\SuperDigital.Api.csproj", "{7E984492-4A86-41F7-BFB6-1D6D4B0D47EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperDigital.Services", "SuperDigital.Services\SuperDigital.Services.csproj", "{FAA32F68-A0E3-4B38-8FAD-EFA9C447B13E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperDigital.Services", "SuperDigital.Services\SuperDigital.Services.csproj", "{FAA32F68-A0E3-4B38-8FAD-EFA9C447B13E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperDigital.Domain", "SuperDigital.Domain\SuperDigital.Domain.csproj", "{6B686D92-EA46-489B-A9D4-535835A2067B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperDigital.Domain", "SuperDigital.Domain\SuperDigital.Domain.csproj", "{6B686D92-EA46-489B-A9D4-535835A2067B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Superdigital.Repository", "Superdigital.Repository\Superdigital.Repository.csproj", "{0A671459-883F-48AD-AC6F-9763975DB706}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Superdigital.Repository", "Superdigital.Repository\Superdigital.Repository.csproj", "{0A671459-883F-48AD-AC6F-9763975DB706}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Superdigital.Bank", "Superdigital.Bank\Superdigital.Bank.sqlproj", "{0BA91200-AFAF-4263-9B9A-4DA215E4CE40}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Documento do Teste teórico", "4-Documento do Teste teórico", "{ED361D0D-FEEE-4538-BA2B-F2BD7F75B714}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Documentação", "4-Documentação", "{29E5C130-4E31-41EF-B0E2-A0F74028BC30}"
 	ProjectSection(SolutionItems) = preProject
-		C:\Users\castr\Documents\Superdigital\Teste desenvolvedor Backend Superdigital - novo.docx = C:\Users\castr\Documents\Superdigital\Teste desenvolvedor Backend Superdigital - novo.docx
+		Documentacao\Teste desenvolvedor Backend Superdigital - novo.docx = Documentacao\Teste desenvolvedor Backend Superdigital - novo.docx
 	EndProjectSection
 EndProject
 Global
