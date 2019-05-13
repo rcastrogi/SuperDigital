@@ -1,0 +1,12 @@
+e:\projetos\Superdigital\SuperDigital.BankTransfer\Superdigital.Bank\bin\Debug\Superdigital.Bank.dacpac
+e:\projetos\Superdigital\SuperDigital.BankTransfer\Superdigital.Bank\bin\Debug\Superdigital.Bank.dll
+e:\projetos\Superdigital\SuperDigital.BankTransfer\Superdigital.Bank\bin\Debug\Superdigital.Bank.pdb
+e:\projetos\Superdigital\SuperDigital.BankTransfer\Superdigital.Bank\obj\Debug\Superdigital.Bank.sqlprojAssemblyReference.cache
+e:\projetos\Superdigital\SuperDigital.BankTransfer\Superdigital.Bank\obj\Debug\Superdigital.Bank.dll
+e:\projetos\Superdigital\SuperDigital.BankTransfer\Superdigital.Bank\obj\Debug\Superdigital.Bank.pdb
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Bank\bin\Debug\Superdigital.Bank.dacpac
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Bank\bin\Debug\Superdigital.Bank.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Bank\bin\Debug\Superdigital.Bank.pdb
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Bank\obj\Debug\Superdigital.Bank.sqlprojAssemblyReference.cache
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Bank\obj\Debug\Superdigital.Bank.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Bank\obj\Debug\Superdigital.Bank.pdb

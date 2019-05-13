@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SuperDigital.Domain\SuperDigital.Domain.csproj" />
+    <ProjectReference Include="..\Superdigital.Repository\Superdigital.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
