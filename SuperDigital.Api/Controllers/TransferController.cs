@@ -12,16 +12,8 @@ namespace SuperDigital.Api.Controllers
     {
         [Route("~/api/SuperDigital")]
         [HttpPost]
-        public IActionResult Post([FromBody] TransferEntity body)
+        public IActionResult Post([FromBody] TransferEntity data)
         {
-            var header = JsonConvert.SerializeObject(Request.Headers);
-            var data = JsonConvert.DeserializeObject<TransferEntity>(header);
-
-            if (data == null)
-            {
-                data = body;
-            }
-
             var transfer = new TransferApp(data);
             if (transfer.errors.Any()) 
             {
