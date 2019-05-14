@@ -1,0 +1,16 @@
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Services\bin\Release\netcoreapp2.1\SuperDigital.Services.deps.json
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Services\bin\Release\netcoreapp2.1\SuperDigital.Services.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Services\bin\Release\netcoreapp2.1\SuperDigital.Services.pdb
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Services\bin\Release\netcoreapp2.1\SuperDigital.Domain.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Services\bin\Release\netcoreapp2.1\Superdigital.Repository.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Services\bin\Release\netcoreapp2.1\Newtonsoft.Json.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Services\bin\Release\netcoreapp2.1\SuperDigital.Domain.pdb
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Services\bin\Release\netcoreapp2.1\Superdigital.Repository.pdb
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Services\bin\Release\netcoreapp2.1\Newtonsoft.Json.xml
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Services\obj\Release\netcoreapp2.1\SuperDigital.Services.csprojAssemblyReference.cache
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Services\obj\Release\netcoreapp2.1\SuperDigital.Services.csproj.CoreCompileInputs.cache
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Services\obj\Release\netcoreapp2.1\SuperDigital.Services.AssemblyInfoInputs.cache
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Services\obj\Release\netcoreapp2.1\SuperDigital.Services.AssemblyInfo.cs
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Services\obj\Release\netcoreapp2.1\SuperDigital.Services.csproj.CopyComplete
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Services\obj\Release\netcoreapp2.1\SuperDigital.Services.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Services\obj\Release\netcoreapp2.1\SuperDigital.Services.pdb

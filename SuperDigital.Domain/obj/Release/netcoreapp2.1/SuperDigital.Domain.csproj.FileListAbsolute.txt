@@ -1,0 +1,8 @@
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Domain\bin\Release\netcoreapp2.1\SuperDigital.Domain.deps.json
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Domain\bin\Release\netcoreapp2.1\SuperDigital.Domain.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Domain\bin\Release\netcoreapp2.1\SuperDigital.Domain.pdb
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Domain\obj\Release\netcoreapp2.1\SuperDigital.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Domain\obj\Release\netcoreapp2.1\SuperDigital.Domain.AssemblyInfoInputs.cache
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Domain\obj\Release\netcoreapp2.1\SuperDigital.Domain.AssemblyInfo.cs
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Domain\obj\Release\netcoreapp2.1\SuperDigital.Domain.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\SuperDigital.Domain\obj\Release\netcoreapp2.1\SuperDigital.Domain.pdb

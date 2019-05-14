@@ -1,0 +1,9 @@
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Bank\bin\Release\Superdigital.Bank.dacpac
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Bank\bin\Release\Superdigital.Bank.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Bank\bin\Release\Superdigital.Bank.pdb
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Bank\obj\Release\Model.xml
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Bank\obj\Release\refactor.xml
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Bank\obj\Release\postdeploy.sql
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Bank\obj\Release\predeploy.sql
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Bank\obj\Release\Superdigital.Bank.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Bank\obj\Release\Superdigital.Bank.pdb

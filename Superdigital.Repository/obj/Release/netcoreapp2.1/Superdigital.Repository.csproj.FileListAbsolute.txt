@@ -1,0 +1,14 @@
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Repository\bin\Release\netcoreapp2.1\Superdigital.Repository.deps.json
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Repository\bin\Release\netcoreapp2.1\Superdigital.Repository.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Repository\bin\Release\netcoreapp2.1\Superdigital.Repository.pdb
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Repository\bin\Release\netcoreapp2.1\Newtonsoft.Json.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Repository\bin\Release\netcoreapp2.1\SuperDigital.Domain.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Repository\bin\Release\netcoreapp2.1\SuperDigital.Domain.pdb
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Repository\bin\Release\netcoreapp2.1\Newtonsoft.Json.xml
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Repository\obj\Release\netcoreapp2.1\Superdigital.Repository.csprojAssemblyReference.cache
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Repository\obj\Release\netcoreapp2.1\Superdigital.Repository.csproj.CoreCompileInputs.cache
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Repository\obj\Release\netcoreapp2.1\Superdigital.Repository.AssemblyInfoInputs.cache
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Repository\obj\Release\netcoreapp2.1\Superdigital.Repository.AssemblyInfo.cs
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Repository\obj\Release\netcoreapp2.1\Superdigital.Repository.csproj.CopyComplete
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Repository\obj\Release\netcoreapp2.1\Superdigital.Repository.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Repository\obj\Release\netcoreapp2.1\Superdigital.Repository.pdb

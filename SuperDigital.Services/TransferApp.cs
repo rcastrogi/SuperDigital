@@ -11,15 +11,15 @@ namespace SuperDigital.Services
     {
         public List<string> errors = new List<string>();
 
-        public TransferApp(LancamentoEntity lancto)
+        public TransferApp(TransferEntity transfer)
         {
-            errors = IsValid(lancto);
+            errors = IsValid(transfer);
 
             if(errors.Count == 0)
             {
                 TransferRepository _dados = new TransferRepository();
 
-                var retorno = _dados.RealizaLancamento(lancto);
+                var retorno = _dados.RealizaTransferencia(transfer);
 
                 if (!retorno) errors.Add("Ocorreu um erro ao gravar as informações");
             }

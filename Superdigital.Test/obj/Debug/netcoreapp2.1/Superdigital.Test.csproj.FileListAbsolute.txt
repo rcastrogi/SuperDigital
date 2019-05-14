@@ -1,0 +1,17 @@
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\bin\Debug\netcoreapp2.1\Superdigital.Test.deps.json
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\bin\Debug\netcoreapp2.1\Superdigital.Test.runtimeconfig.json
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\bin\Debug\netcoreapp2.1\Superdigital.Test.runtimeconfig.dev.json
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\bin\Debug\netcoreapp2.1\Superdigital.Test.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\bin\Debug\netcoreapp2.1\Superdigital.Test.pdb
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\bin\Debug\netcoreapp2.1\SuperDigital.Domain.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\bin\Debug\netcoreapp2.1\SuperDigital.Domain.pdb
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\obj\Debug\netcoreapp2.1\Superdigital.Test.csprojAssemblyReference.cache
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\obj\Debug\netcoreapp2.1\Superdigital.Test.csproj.CoreCompileInputs.cache
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\obj\Debug\netcoreapp2.1\Superdigital.Test.AssemblyInfoInputs.cache
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\obj\Debug\netcoreapp2.1\Superdigital.Test.AssemblyInfo.cs
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\obj\Debug\netcoreapp2.1\Superdigital.Test.csproj.CopyComplete
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\obj\Debug\netcoreapp2.1\Superdigital.Test.dll
+E:\Projetos\Superdigital\SuperDigital.BankTransfer\SuperDigital\Superdigital.Test\obj\Debug\netcoreapp2.1\Superdigital.Test.pdb

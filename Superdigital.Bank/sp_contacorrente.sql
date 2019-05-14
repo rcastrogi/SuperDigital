@@ -1,30 +1,46 @@
-﻿CREATE PROCEDURE [dbo].[sp_contacorrente_si]
-	@Clienteid int
-	,@Banco int
-	,@Agencia int
-	,@Conta int
-	,@Digito int
-	,@Saldo decimal(18,2) = 0
+﻿CREATE PROCEDURE [dbo].[sp_ContaCorrente_Transfer]
+	 @BancoOri int
+	,@AgenciaOri int
+	,@ContaOri int
+	,@DigitoOri int
+	,@BancoDes int
+	,@AgenciaDes int
+	,@ContaDes int
+	,@DigitoDes int
+
 AS
 begin
 
-	declare @id int
+	declare @idOri int, @IdDes int
 
-	select @id = id from ContaCorrente 
-		where ClienteId = @Clienteid 
-			and Banco = @Banco
-			and Agencia = @Agencia
-			and Conta = @Conta
-			and Digito = @Digito
+	select @idOri = id from ContaCorrente 
+		where Banco = @BancoOri
+			and Agencia = @AgenciaOri
+			and Conta = @ContaOri
+			and Digito = @DigitoOri
 	
-	if @id is null
+	if @idOri is null
 	begin
-		insert into ContaCorrente (ClienteId, Banco, Agencia, Conta, Digito, Saldo) values (@Clienteid, @Banco, @Agencia, @Conta, @Digito, @Saldo)
+		insert into ContaCorrente (ClienteId, Banco, Agencia, Conta, Digito, Saldo) values (1, @BancoOri, @AgenciaOri, @ContaOri, @DigitoOri, 0)
 
-		select @@IDENTITY Id
+		select @idOri = @@IDENTITY 
 	end
-	else
+	
+	
+	
+	select @idDes = id from ContaCorrente 
+		where Banco = @BancoDes
+			and Agencia = @AgenciaDes
+			and Conta = @ContaDes
+			and Digito = @DigitoDes
+	
+	if @idDes is null
 	begin
-		select @Id Id
+		insert into ContaCorrente (ClienteId, Banco, Agencia, Conta, Digito, Saldo) values (2, @BancoDes, @AgenciaDes, @ContaDes, @DigitoDes, 0)
+
+		select @idDes = @@IDENTITY 
 	end
+	
+	select @idOri ContaCorrenteOri, @idDes ContaCorrenteDes
+
 end

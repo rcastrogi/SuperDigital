@@ -18,15 +18,47 @@ namespace Superdigital.Repository.DataModel
             _unitOfWork = (DapperUnitOfWork)unitOfWork;
         }
 
-        public bool RealizaLancamento(LancamentoEntity lancto)
+        public bool RealizaTransferencia(TransferEntity transfer)
         {
             const string proc = "sp_Lancamento_Transfer";
 
-            var paramContaOrigem = DataHelperParameters.CreateParameter("@FromContaCorrenteId", lancto.FromContaCorrenteId);
-            var paramContaDestino = DataHelperParameters.CreateParameter("@ToContaCorrenteId", lancto.ToContaCorrenteId);
-            var paramContaOrigemSaldoAtual = DataHelperParameters.CreateParameter("@Valor", lancto.Valor);
+            var transferContas = VerificaContas(transfer);
 
-            return _unitOfWork.Get<bool>(proc, paramContaOrigem, paramContaDestino);
+            if (transferContas != null)
+            {
+                LancamentoEntity lancto = new LancamentoEntity()
+                {
+                    ContaCorrenteOriId = transferContas.ContaCorrenteOriId,
+                    ContaCorrenteDesId = transferContas.ContaCorrenteDesId,
+                    Valor = transfer.Valor
+                };
+
+                var paramContaOrigem = DataHelperParameters.CreateParameter("@FromContaCorrenteId", lancto.ContaCorrenteOriId);
+                var paramContaDestino = DataHelperParameters.CreateParameter("@ToContaCorrenteId", lancto.ContaCorrenteDesId);
+                var paramContaOrigemSaldoAtual = DataHelperParameters.CreateParameter("@Valor", lancto.Valor);
+
+                return _unitOfWork.Get<bool>(proc, paramContaOrigem, paramContaDestino);
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        private TransferContasEntity VerificaContas(TransferEntity transfer)
+        {
+            const string proc = "sp_ContaCorrente_Transfer";
+
+            var paramBancoOri = DataHelperParameters.CreateParameter("@BancoOri", transfer.BancoOri);
+            var paramAgenciaOri = DataHelperParameters.CreateParameter("@AgenciaOri", transfer.AgenciaOri);
+            var paramContaOri = DataHelperParameters.CreateParameter("@ContaOri", transfer.ContaOri);
+            var paramDigitoOri = DataHelperParameters.CreateParameter("@DigitoOri", transfer.DigitoOri);
+            var paramBancoDes = DataHelperParameters.CreateParameter("@BancoDes", transfer.BancoDes);
+            var paramAgenciaDes = DataHelperParameters.CreateParameter("@AgenciaDes", transfer.AgenciaDes);
+            var paramContaDes = DataHelperParameters.CreateParameter("@ContaDes", transfer.ContaDes);
+            var paramDigitoDes = DataHelperParameters.CreateParameter("@DigitoDes", transfer.DigitoDes);
+
+            return _unitOfWork.Get<TransferContasEntity>(proc, paramBancoOri, paramAgenciaOri, paramContaOri, paramDigitoOri, paramBancoDes, paramAgenciaDes, paramContaDes, paramDigitoDes);
         }
     }
 }
